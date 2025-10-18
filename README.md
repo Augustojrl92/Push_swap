@@ -161,7 +161,7 @@ push_swap/
 
 ## 🔄 Diagrama 1 – Flujo general del programa
 
-```mermaid
+```
 flowchart TD
     A([Inicio]) --> B[Leer y validar argumentos]
     B --> C[Guardar números en stack A]
