@@ -178,7 +178,7 @@ flowchart TD
 
 ## 🔁 Diagrama 2 – Movimiento de elementos entre stacks
 
-```mermaid
+```
 flowchart LR
     subgraph StackA["Stack A (entrada)"]
         A1((5))
@@ -234,8 +234,4 @@ Salida:
 
 ---
 
-## 👨‍💻 Autor
 
-**Aurodrig**  
-42 Campus  
-[https://github.com/aurodrig](https://github.com/aurodrig)
